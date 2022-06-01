@@ -1,2 +1,2 @@
-# Desafio sobre Git/GitHub da DIO
-Repositório destinado ao desafio sobre Git/GitHub da DIO
+# Repositório Bootcamp TQI - DIO
+Repositório destinado ao bootcamp TQI Fullstack Developer da DIO.
